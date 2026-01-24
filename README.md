@@ -1,4 +1,4 @@
-Here is a `README.md` file based on the content of your Jupyter notebook:
+
 
 # 50 Startups Profit Prediction & Backward Elimination
 
