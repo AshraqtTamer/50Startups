@@ -4,13 +4,6 @@
 
 This project performs exploratory data analysis (EDA) and builds a regression model to predict the profit of 50 startups based on various expenditure and location data. It specifically explores the technique of **Backward Elimination** to optimize the multiple linear regression model.
 
-## Table of Contents
-
-* [Dataset](https://www.google.com/search?q=%23dataset)
-* [Project Workflow](https://www.google.com/search?q=%23project-workflow)
-* [Technologies Used](https://www.google.com/search?q=%23technologies-used)
-* [Key Findings](https://www.google.com/search?q=%23key-findings)
-
 ## Dataset
 
 The project uses the `50_Startups.csv` dataset, which contains the following features for 50 companies:
